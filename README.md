@@ -9,10 +9,10 @@
  - In my free time I am an illustrator and 2D conceptual artist in digital and traditional media.
 <h3 align="left">Connect with me:</h3>  
 <p>
-<a href="mailto:alexrosales4611@gmail.com" >📩  alexrosales4611@gmail.com</a> 
+<a href="mailto:alexrosales4611@gmail.com" >📩 alexrosales4611@gmail.com</a> 
 </p>
 <p>
-📩  a.rosales@itecriocuarto.org.ar
+<a href="mailto:a.rosales@itecriocuarto.org.ar" >📩 alexrosales4611@gmail.com</a> 
 </p>
 <p align="left">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-rosales-b4bb4723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexis-rosales-b4bb4723b/" height="30" width="40" /></a>  
