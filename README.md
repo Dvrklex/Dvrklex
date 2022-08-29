@@ -9,7 +9,7 @@
  - In my free time I am an illustrator and 2D conceptual artist in digital and traditional media.
 <h3 align="left">Connect with me:</h3>  
 <p>
-📩  alexrosales4611@gmail.com 
+<a href="mailto:alexrosales4611@gmail.com" >📩  alexrosales4611@gmail.com</a> 
 </p>
 <p>
 📩  a.rosales@itecriocuarto.org.ar
