@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋, I'm Alexis Rosales</div>  
   
 
-- 🖥 I am 21 years old and I am a second-year student in Software Development at the Technological Institute of Rio Cuarto (iTec).  
+- 🖥 I am 21 years old and I am a third-year student in Software Development at the Technological Institute of Rio Cuarto (iTec).  
   
 
 - 🔧 For 3 years I have been a Computer Maintenance and Diagnostic Technician.  
