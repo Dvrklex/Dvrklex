@@ -28,7 +28,7 @@
 - ✒ In my free time I am an illustrator and 2D conceptual artist in digital and traditional media.  
   
 
-<br/>  
+ 
 
 <div align="center">
 <table>
