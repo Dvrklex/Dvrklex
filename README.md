@@ -103,7 +103,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+        src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"
         width="48"
         height="48"
         alt="Node.js"
@@ -131,7 +131,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+        src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667"
         width="48"
         height="48"
         alt="Express"
