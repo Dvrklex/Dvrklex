@@ -1,6 +1,20 @@
 ### <div align="center">Hi 👋, I'm Alexis Rosales
 </div>  
-  
+  <div align="center">
+<a href="https://www.linkedin.com/in/alexis-rosales-b4bb4723b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/dvrklex/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Dvrklex" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://es.stackoverflow.com/users/303247/dvrklex" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 - 🖥 I am 21 years old and I am a third-year student in Software Development at the Technological Institute Rio Cuarto (iTec).  
   
@@ -16,12 +30,13 @@
 
 <br/>  
 
-
-
-## <div align="center"><h2>Languages & Technologies</h2></div>  
-   <div align="center">
-<br>
+<div align="center">
 <table>
+  
+## <h2>Languages & Technologies</h2>
+   
+
+
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -172,7 +187,7 @@
     
  </tr>
 </table>
-<br>
+
   </div>
 
   ### <div align="center"><h2>Tools</h2></div> 
@@ -255,24 +270,5 @@
     
  </tr>
 </table>
-<br>
 </div>
-
-## <div align="center">Connect with me</div>  
-<div align="center">
-<a href="https://www.linkedin.com/in/alexis-rosales-b4bb4723b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/dvrklex/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Dvrklex" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://es.stackoverflow.com/users/303247/dvrklex" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br />
 
