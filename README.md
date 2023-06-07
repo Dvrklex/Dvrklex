@@ -20,6 +20,7 @@
 
 ## <div align="center"><h2>Languages & Technologies</h2></div>  
    <div align="center">
+<br>
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -67,7 +68,6 @@
       />
       <br /><strong>Django</strong>
     </td>
-    <tr />
     <td align="center" height="108" width="108">
       <img
         src="https://profilinator.rishav.dev/skills-assets/flask.png"
@@ -95,6 +95,16 @@
       />
       <br /><strong>NodeJS</strong>
     </td>
+    <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/473669/jinja.svg"
+        width="48"
+        height="48"
+        alt="jinja"
+      />
+      <br /><strong>Jinja</strong>
+         </td>
     <td align="center" height="108" width="108">
       <img
         src="https://sequelize.org/img/logo.svg"
@@ -113,7 +123,6 @@
       />
       <br /><strong>Express</strong>
     </td>
-    <tr />
     <td align="center" height="108" width="108">
       <img
         src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
@@ -164,7 +173,6 @@
  </tr>
 </table>
 <br>
-
   </div>
 
   ### <div align="center"><h2>Tools</h2></div> 
