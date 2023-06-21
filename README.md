@@ -86,7 +86,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://profilinator.rishav.dev/skills-assets/flask.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs53KWlTIVHXH_oo0pKrPzRodaCMlzwzGHt4uC2Uq4mx-f237fkiIy9B80V8iEg0Z8m84&usqp=CAU"
         width="48"
         height="48"
         alt="Flask"
