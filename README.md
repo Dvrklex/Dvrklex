@@ -17,12 +17,12 @@
 </div>  
 
 
-- 🖥 I am 21 years old and I am a third-year student in Software Development at the Technological Institute Rio Cuarto (iTec).  
+- 🎓 I graduated with a degree in Software Development from the Technological Institute Rio Cuarto (iTec).
   
+- 💻 Currently working as a Backend Developer.
 
 - 🔧 For 3 years I have been a Computer Maintenance and Diagnostic Technician.  
   
-
 - 📚 During high school, acquire basic and intermediate knowledge about graphic design, audio and video editing, as well as communication and group work.  
   
 
